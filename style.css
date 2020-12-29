@@ -22,6 +22,15 @@ p{
     height: 40px;
     border:2px rgb(255, 255, 255) solid;
     border-radius:5px 15px;
+}
+.btn1:hover{
+    background-color:#ffffff;
+    color: #000000;
+    font-family: montserrat;
+    width:150px;
+    height: 40px;
+    border:2px rgb(0, 0, 0) solid;
+    border-radius:5px 15px;
     cursor: pointer;
 }
 iframe{
